@@ -8,4 +8,4 @@
 - 许可证 Apache 2.0 License & [MaxKey版权声明](https://www.maxkey.top/zh/about/licenses.html)
 
 [官方网站](https://www.maxkey.top/)
-[快速使用](https://maxkey.top/zh/conf/tutorial.html)
+[快速使用](https://www.maxkey.top/zh/conf/tutorial.html)
