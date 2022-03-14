@@ -21,7 +21,7 @@
 
 <h3>MaxKey身份管理架构</h3>
 
-基于**Apache Kafka**和MaxKey身份连接器(**Connector**)的管理架构
+基于**MQ(Message Queue消息中间件)**和MaxKey身份连接器(**Connector**)的管理架构
 
 <img src="/static/images/im/maxkey_im.png"   alt=""/>
 
