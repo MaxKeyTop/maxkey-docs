@@ -28,28 +28,53 @@
 
 <h3>连接器Connector</h3>
 
-ActiveDirectory Connector
-
-
-LDAP Connector
-
-
-JDBC Connector
-
-
-SCIM 2 Connector
-
-
-企业微信 Connector
-
-
-钉钉 Connector
-
-
-飞书 Connector
-
-
-华为WeLink Connector
-
-
-other coming soon
+<table border="0" class="table table-striped table-bordered ">
+	<thead>
+		<tr class="a">
+			<th>类型</th>
+			<th>连接器</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>LDAP</td>
+			<td>Microsoft  Active Directory</td>
+		</tr>
+		<tr>
+			<td>LDAP</td>
+			<td>OpenLDAP</td>
+		</tr>
+		<tr>
+			<td>LDAP</td>
+			<td>Standard LDAP Server</td>
+		</tr>
+		<tr>
+			<td>Instant Messenger</td>
+			<td>企业微信</td>
+		</tr>
+		<tr>
+			<td>Instant Messenger</td>
+			<td>钉钉</td>
+		</tr>
+		<tr>
+			<td>Instant Messenger</td>
+			<td>飞书</td>
+		</tr>
+		<tr>
+			<td>Instant Messenger</td>
+			<td>华为WeLink</td>
+		</tr>
+		<tr>
+			<td>SCIM</td>
+			<td>SCIM 2</td>
+		</tr>
+		<tr>
+			<td>JDBC</td>
+			<td>lengleng/pig</td>
+		</tr>
+		<tr>
+			<td>JDBC</td>
+			<td>若依/RuoYi</td>
+		</tr>
+	</tbody>
+</table>	
