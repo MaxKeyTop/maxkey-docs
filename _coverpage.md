@@ -4,7 +4,7 @@
 
 > 安全<span style="color: #FFD700;">连接</span>，传递<span style="color: #FFD700;">信任</span>
 
-- 业界领先的企业级IAM身份管理和认证产品
+- 业界领先的IAM身份管理和认证产品
 - 许可证 Apache 2.0 License & [MaxKey版权声明](https://www.maxkey.top/zh/about/licenses.html)
 
 [官方网站](https://www.maxkey.top/)
