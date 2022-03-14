@@ -1,6 +1,6 @@
 ![logo](/static/images/logo_maxkey.png)
 
-# MaxKey单点登录API文档 <small>3.2.0</small>
+# MaxKey单点登录API文档 <small>3.3.3</small>
 
 > 安全<span style="color: #FFD700;">连接</span>，传递<span style="color: #FFD700;">信任</span>
 
