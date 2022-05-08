@@ -6,6 +6,7 @@
 
 - 业界领先的IAM身份管理和认证产品
 - 许可证 Apache 2.0 License & [MaxKey版权声明](https://www.maxkey.top/zh/about/licenses.html)
+- [产品下载](https://maxkey.top/zh/about/download.html)
 
 [官方网站](https://www.maxkey.top/)
 [快速使用](https://www.maxkey.top/zh/conf/tutorial.html)
