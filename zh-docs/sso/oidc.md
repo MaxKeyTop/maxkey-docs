@@ -22,7 +22,7 @@
   	  </tr>
 	  <tr>
 	    <td> 接口地址 </td>
-	    <td>https://sso.maxkey.org/maxkey/api/connect/v10/userinfo</td>
+	    <td>http://sso.maxkey.org/sign/api/connect/v10/userinfo</td>
 	  </tr>
 	  <tr>
 	    <td> 请求方式 </td>
