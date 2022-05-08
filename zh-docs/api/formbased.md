@@ -3,7 +3,7 @@
 ## FormBased认证地址接口
 
 
-**接口地址**:`/maxkey/authz/formbased/{id}`
+**接口地址**:`/sign/authz/formbased/{id}`
 
 
 **请求方式**:`GET`

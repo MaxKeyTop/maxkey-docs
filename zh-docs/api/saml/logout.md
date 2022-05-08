@@ -3,7 +3,7 @@
 ## SAML单点注销地址接口
 
 
-**接口地址**:`/maxkey/logout/saml`
+**接口地址**:`/sign/logout/saml`
 
 
 **请求方式**:`GET`

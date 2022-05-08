@@ -3,7 +3,7 @@
 ## CAS 3.0 ProxyTicket代理验证接口
 
 
-**接口地址**:`/maxkey/authz/cas/p3/proxy`
+**接口地址**:`/sign/authz/cas/p3/proxy`
 
 
 **请求方式**:`POST`

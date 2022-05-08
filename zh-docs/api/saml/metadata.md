@@ -3,7 +3,7 @@
 ## SAML 2.0 元数据接口
 
 
-**接口地址**:`/maxkey/metadata/saml20/{appid}.xml`
+**接口地址**:`/sign/metadata/saml20/{appid}.xml`
 
 
 **请求方式**:`GET`

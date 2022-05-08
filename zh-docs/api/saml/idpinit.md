@@ -3,7 +3,7 @@
 ## SAML 2.0 IDP Init接口
 
 
-**接口地址**:`/maxkey/authz/saml20/idpinit/{appid}`
+**接口地址**:`/sign/authz/saml20/idpinit/{appid}`
 
 
 **请求方式**:`GET`

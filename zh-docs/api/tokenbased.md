@@ -3,7 +3,7 @@
 ## TokenBased认证接口
 
 
-**接口地址**:`/maxkey/authz/tokenbased/{id}`
+**接口地址**:`/sign/authz/tokenbased/{id}`
 
 
 **请求方式**:`GET`

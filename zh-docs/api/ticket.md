@@ -3,7 +3,7 @@
 ## 在线ticket验证接口
 
 
-**接口地址**:`/maxkey/onlineticket/validate`
+**接口地址**:`/sign/onlineticket/validate`
 
 
 **请求方式**:`GET`

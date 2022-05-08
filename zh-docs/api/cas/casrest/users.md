@@ -3,7 +3,7 @@
 ## CAS REST认证接口
 
 
-**接口地址**:`/maxkey/authz/cas/v1/users`
+**接口地址**:`/sign/authz/cas/v1/users`
 
 
 **请求方式**:`POST`

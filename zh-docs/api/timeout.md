@@ -3,7 +3,7 @@
 ## 登录超时接口
 
 
-**接口地址**:`/maxkey/timeout`
+**接口地址**:`/sign/timeout`
 
 
 **请求方式**:`GET`

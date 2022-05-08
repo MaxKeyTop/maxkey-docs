@@ -53,7 +53,7 @@ commons-logging-1.1.1.jar
 		<!-- cas server login url -->
 		<init-param>
 			<param-name>casServerLoginUrl</param-name>
-			<param-value>>https://sso.maxkey.top/maxkey/authz/cas/login</param-value>
+			<param-value>>http://sso.maxkey.top/sign/authz/cas/login</param-value>
 		</init-param>
 		<!-- cas client url, in end of url / is required -->
 		<init-param>
@@ -73,7 +73,7 @@ commons-logging-1.1.1.jar
 		<!-- cas server Validation url -->
 		<init-param>
 			<param-name>casServerUrlPrefix</param-name>
-			<param-value>https://sso.maxkey.top/maxkey/authz/cas/</param-value>
+			<param-value>http://sso.maxkey.top/sign/authz/cas/</param-value>
 		</init-param>
 		<!-- cas client url -->
 		<init-param>
@@ -253,9 +253,9 @@ server:
   port: 8989
 cas:
   # cas服务端地址
-  server-url-prefix: http://sso.maxkey.top/maxkey/authz/cas/
+  server-url-prefix: http://sso.maxkey.top/sign/authz/cas/
   # cas服务端登陆地址
-  server-login-url: http://sso.maxkey.top/maxkey/authz/cas/login
+  server-login-url: http://sso.maxkey.top/sign/authz/cas/login
   # 客户端访问地址
   client-host-url: http://localhost:8989/
   # 认证方式，默认cas

@@ -7,3 +7,5 @@ npm i docsify-cli
 
 
 docsify serve docs
+
+docsify serve .

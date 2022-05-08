@@ -3,7 +3,7 @@
 ## OAuth 2.0 获取AccessToken接口
 
 
-**接口地址**:`/maxkey/authz/oauth/v20/token`
+**接口地址**:`/sign/authz/oauth/v20/token`
 
 
 **请求方式**:`GET` `POST`

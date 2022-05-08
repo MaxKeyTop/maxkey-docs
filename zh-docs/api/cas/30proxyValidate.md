@@ -3,7 +3,7 @@
 ## CAS 3.0 ticket代理验证接口
 
 
-**接口地址**:`/maxkey/authz/cas/p3/proxyValidate`
+**接口地址**:`/sign/authz/cas/p3/proxyValidate`
 
 
 **请求方式**:`POST`

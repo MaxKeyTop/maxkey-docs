@@ -3,7 +3,7 @@
 ## OAuth 2.0 token检查接口
 
 
-**接口地址**:`/maxkey/authz/oauth/v20/check_token`
+**接口地址**:`/sign/authz/oauth/v20/check_token`
 
 
 **请求方式**:`POST`

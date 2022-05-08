@@ -3,7 +3,7 @@
 ## CAS 1.0 ticket验证接口
 
 
-**接口地址**:`/maxkey/authz/cas/validate`
+**接口地址**:`/sign/authz/cas/validate`
 
 
 **请求方式**:`POST`

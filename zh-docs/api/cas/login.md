@@ -3,7 +3,7 @@
 ## CAS页面跳转service认证接口
 
 
-**接口地址**:`/maxkey/authz/cas/login`
+**接口地址**:`/sign/authz/cas/login`
 
 
 **请求方式**:`GET`

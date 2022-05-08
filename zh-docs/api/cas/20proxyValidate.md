@@ -3,7 +3,7 @@
 ## CAS 2.0 ticket代理验证接口
 
 
-**接口地址**:`/maxkey/authz/cas/proxyValidate`
+**接口地址**:`/sign/authz/cas/proxyValidate`
 
 
 **请求方式**:`POST`

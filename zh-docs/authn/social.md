@@ -20,38 +20,6 @@ layout: zh/default
 
 <img src="{{ "/static/images/authn/authn_s_3.png" | prepend: site.baseurl }}?{{ site.time | date: "%Y%m%d%H%M" }}"  alt=""/>
 
-<h3>认证配置</h3>
-文件
-maxkey/maxkey.properties
-
-<pre><code class="ini hljs">
-#enable social sign on
-config.login.socialsignon=true
-#sina weibo
-config.socialsignon.sinaweibo.provider=sinaweibo
-#登录提示
-config.socialsignon.sinaweibo.provider.name=新浪微博
-#图片
-config.socialsignon.sinaweibo.icon=images/social/sinaweibo.png
-#新浪client.id
-config.socialsignon.sinaweibo.client.id=3379757634
-#新浪client.secret
-config.socialsignon.sinaweibo.client.secret=1adfdf9800299037bcab9d1c238664ba
-#
-config.socialsignon.sinaweibo.account.id=id
-#排序
-config.socialsignon.sinaweibo.sortorder=1
-</code></pre>
-
-配置maxkey/maxkey.properties
-
-<pre><code class="ini hljs">
-#enable social sign on
-config.login.socialsignon=true
-#social sign on providers
-config.login.socialsignon.providers=sinaweibo,google,qq,dingtalk,microsoft,facebook
-</code></pre>
-
 <h3>账号绑定</h3>
 登录MaxKey，并绑定新浪微博账号
 

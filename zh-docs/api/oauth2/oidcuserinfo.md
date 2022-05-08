@@ -3,7 +3,7 @@
 ## OIDC 用户信息接口
 
 
-**接口地址**:`/maxkey/api/connect/v10/userinfo`
+**接口地址**:`/sign/api/connect/v10/userinfo`
 
 
 **请求方式**:`GET`

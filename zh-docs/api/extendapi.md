@@ -3,7 +3,7 @@
 ## ExtendApi认证地址接口
 
 
-**接口地址**:`/maxkey/authz/api/{id}`
+**接口地址**:`/sign/authz/api/{id}`
 
 
 **请求方式**:`GET`

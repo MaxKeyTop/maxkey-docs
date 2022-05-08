@@ -3,7 +3,7 @@
 ## CAS注销接口
 
 
-**接口地址**:`/maxkey/authz/cas/logout`
+**接口地址**:`/sign/authz/cas/logout`
 
 
 **请求方式**:`GET`

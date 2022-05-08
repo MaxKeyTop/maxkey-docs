@@ -3,7 +3,7 @@
 ## OAuth 2.0 认证接口
 
 
-**接口地址**:`/maxkey/authz/oauth/v20/authorize`
+**接口地址**:`/sign/authz/oauth/v20/authorize`
 
 
 **请求方式**:`GET`

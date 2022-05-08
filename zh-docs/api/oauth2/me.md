@@ -3,7 +3,7 @@
 ## OAuth 2.0 用户信息接口
 
 
-**接口地址**:`/maxkey/api/oauth/v20/me`
+**接口地址**:`/sign/api/oauth/v20/me`
 
 
 **请求方式**:`GET`

@@ -3,7 +3,7 @@
 ## JWT应用ID认证接口
 
 
-**接口地址**:`/maxkey/authz/jwt/{id}`
+**接口地址**:`/sign/authz/jwt/{id}`
 
 
 **请求方式**:`GET`

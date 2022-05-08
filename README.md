@@ -62,7 +62,7 @@ QQ交流群：<b>434469201</b>
 
 7. 认证中心具有平台无关性、环境多样性，支持Web、手机、移动设备等, 如Apple iOS，Andriod等，将认证能力从B/S到移动应用全面覆盖。
 
-8. 基于Java EE平台，微服务架构，采用Spring、MySQL、Tomcat、Redis、Kafka、RocketMQ等开源技术，扩展性强。  
+8. 基于Java EE平台，微服务架构，采用Spring、MySQL、Tomcat、Redis、MQ等开源技术，扩展性强。  
 
 9. 开源、安全、自主可控，许可证 Apache 2.0 License & <a href="https://maxkey.top/zh/about/licenses.html" target="_blank">MaxKey版权声明</a>。  
 
@@ -91,72 +91,7 @@ QQ交流群：<b>434469201</b>
 
 # 下载
 
-当前版本百度网盘下载,<a href="https://maxkey.top/zh/about/download.html" target="_blank"> 历史版本</a>
-
-| 版本    | 日期    |  Docker      |  网盘      |  网盘提取码  |
-| --------| :-----  | :----        | :----      | :----        |
-| v 3.3.3 GA | 2022/03/03   |<a href="https://hub.docker.com/u/maxkeytop" target="_blank">链接</a>  |  <a href="https://pan.baidu.com/s/13hNZo2YoS7bNzX4loSQx8A" target="_blank">下载</a>  |  **mxk9**  |
-
-
-# Roadmap
-
-| 序号    | 计划    |  时间  |
-| --------| :-----  | :----  |
-| 1     | React, and Ant Design                                     |  2022Q2  |
-| 2     | Java 17+                                                  |  2022Q4  |
-| 3     | Jakarta EE 9+                                             |  2022Q4  |
-| 4     | Spring Framework 6                                        |  2022Q4  |
-| 5     | Spring Boot 3                                             |  2022Q4  |
-
-
-# 接入登记
-
-<a href="https://gitee.com/dromara/MaxKey/issues/I2BNRZ" target="_blank"> 点击进行接入登记</a>，为 MaxKey的发展贡献自己的力量！
-
-
-以下为部分接入或测试中的用户
-
-| 行业    | 单位    |
-| --------| :-----  |
-| 院校    | 兰州现代职业学院                            |
-| 院校    | 长春职业技术学院                            |
-| 教育    | 重庆市北碚图书馆                            |
-| 教育    | 德清智慧教育平台                            |
-| 教育    | 余姚市教育局                                |
-| 企业    | 国家能源局                                  |
-| 企业    | 360公司                                     |
-| 企业    | 深圳市金溢科技股份有限公司                  |
-| 企业    | 之江实验室                                  |
-| 企业    | 深圳市中悦科技有限公司                      |
-| 金融    | 国元证券                                    |
-| 金融    | 华夏金融租赁有限公司                        |
-| 金融    | 宁波金融资产交易中心                        |
-| 金融    | 国宝人寿保险股份有限公司                    |
-| 金融    | 瀚华金控股份有限公司                        |
-| 汽车    | 路特斯中国                                  |
-| 企业    | 北京银泰置业有限公司                        |
-| 企业    | 遂宁市经济大数据平台                        |
-| 企业    | 同方节能工程技术有限公司                    |
-| 企业    | 云南航天工程物探检测股份有限公司            |
-| 企业    | 山东港口陆海国际物流集团有限公司            |
-| 企业    | 广州无线电集团                              |
-| 企业    | 河南新辰环保科技有限公司                    |
-| 企业    | 三一华兴                                    |
-| 企业    | unicon.net                                  |
-| 企业    | 深圳市东阳光实业发展有限公司                |
-| 企业    | 黄河科技集团有限公司                        |
-| 企业    | 新开普电子股份有限公司                      |
-| 企业    | 杭州润为数据科技有限公司                    |
-| 企业    | 百安居中国                                  |
-| 科技    | 广州思迈特软件有限公司                      |
-| 科技    | 尚企云链                                    |
-| 科技    | 北京博亚思科技有限公司                      |
-| 科技    | 武汉英特沃科技有限公司                      |
-| 科技    | 江苏创致信息科技有限公司                    |
-| 科技    | 湖南数通信息技术服务有限公司                |
-| 科技    | 广东漫云物联科技有限公司                    |
-| 科技    | 江西云车科技有限公司                        |
-| 科技    | 无锡市陶都巨龙软件有限责任公司              |
+<a href="https://maxkey.top/zh/about/download.html" target="_blank"> 官方版本下载</a>
 
 # Dromara社区
 <a href="https://dromara.org/zh/" target="_blank">**Dromara**</a>致力于微服务云原生解决方案的组织。
